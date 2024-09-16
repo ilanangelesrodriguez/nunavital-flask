@@ -9,3 +9,4 @@ joblib
 pandas
 matplotlib 
 scikit-learn
+flask-cors
