@@ -8,4 +8,4 @@ Werkzeug==2.2.2
 joblib
 pandas
 matplotlib 
-sklearn
+scikit-learn
